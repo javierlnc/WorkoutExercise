@@ -15,6 +15,6 @@ Al igual, la pagina te permitira cargar tus rutinas, al igual que personalizarla
 - Esta aplicacion no piensa sustituir a un entrenador adecuado, solo es una herramienta para sustituir los cuadernos de gimnasio por la comodida del telefono
 - Este documento README.md se debe ir actualizando cada de ser posible.
 
-##Tecnologias
+## Tecnologias
                 
 En un principio para el desarrollo de Front End se utilizara Angular, con bootstrap.
