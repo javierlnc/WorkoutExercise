@@ -1,27 +1,20 @@
-# ExerciseExample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
-## Development server
+# Exercise Hystori
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Descripción
+=============
+Este es un proyecto personal, en el cual trato de poner en practica mis conocimientos en Angular, complementando con Bootsrap y utilizando .Net Core para realizar el backend
+En cuanto al proyecto, debe ser una aplicacion simple que te permita llevar un registro de tu rendimiento en el gimnasio, al igual que ver el historial de cada ejercicio por separado para poder supervisar tu progresos y generar una sobrecarga progresiva
+Al igual, la pagina te permitira cargar tus rutinas, al igual que personalizarlas de acuerdo a lo que tu entrenador te indique
+### Advertencias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Esto es un proyecto realizado como medio de aprendizaje y no espera generar ningun
+- Con el paso del tiempo y en cuanto mas se vaya desarrollando el proyecto mas features se iran agregando con el tiempo
+- Esta aplicacion no piensa sustituir a un entrenador adecuado, solo es una herramienta para sustituir los cuadernos de gimnasio por la comodida del telefono
+- Este documento README.md se debe ir actualizando cada de ser posible.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##Tecnologias
+                
+En un principio para el desarrollo de Front End se utilizara Angular, con bootstrap.
